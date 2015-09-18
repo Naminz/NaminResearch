@@ -6,7 +6,7 @@ email: njeong3@mail.gatech.edu
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/NaminResearch"
 url: "http://Naminz.github.io"
-github_username:  Naminz
+github_username: Naminz
 project_repository: NaminResearch
 disqus_shortname: project-pages
 
