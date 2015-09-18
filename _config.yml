@@ -4,10 +4,10 @@ title: Naminz Research
 header-img: img/home-bg.jpg
 email: njeong3@mail.gatech.edu
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/project-pages"
-url: "http://matin-hub.github.io"
-github_username:  matin-hub
-project_repository: project-pages
+baseurl: "/NaminResearch"
+url: "http://Naminz.github.io"
+github_username:  Naminz
+project_repository: NaminResearch
 disqus_shortname: project-pages
 
 # Build settings
